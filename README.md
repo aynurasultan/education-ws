@@ -1,4 +1,4 @@
-<h1> Movie Website </h1>
+<h1> Education Website </h1>
 This is a simple education website built with HTML, CSS, and JavaScript.
 
 <h2>Features</h2>
